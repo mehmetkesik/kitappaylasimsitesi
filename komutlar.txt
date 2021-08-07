@@ -1,0 +1,5 @@
+localhost/phpmyadmin den kitap veritabanını oluştur.
+php artisan migrate çalıştır.
+php artisan db:seed çalıştır.
+php artisan serve çalıştır.
+localhost:8000 i aç.
