@@ -2,8 +2,8 @@
 
 ### Komutlar
   
-    - <kitap> adında mysql veri tabanı oluşturulmalıdır.
-    - `php artisan migrate` çalıştır.
+- <kitap> adında mysql veri tabanı oluşturulmalıdır.
+- `php artisan migrate` çalıştır.
     - <code>php artisan db:seed</code> çalıştır.
     - <code>php artisan serve</code> çalıştır.
     - localhost:8000 üzerinde site çalışır duruma gelir.
