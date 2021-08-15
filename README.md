@@ -8,6 +8,8 @@
 - `php artisan serve` çalıştır.
 - `localhost:8000` üzerinde site çalışır duruma gelir.
 
+
+
 - ![Ekran görüntüsü 1](https://github.com/mehmetkesik/kitappaylasimsitesi/blob/master/kitapsitesi1.png)
 
 - ![Ekran görüntüsü 2](https://github.com/mehmetkesik/kitappaylasimsitesi/blob/master/kitapsitesi2.png)
